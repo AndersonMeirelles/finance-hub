@@ -1,0 +1,64 @@
+{
+  "navigation": {
+    "home": "Início",
+    "articles": "Artigos",
+    "investments": "Investimentos",
+    "cards": "Cartões",
+    "loans": "Empréstimos",
+    "about": "Sobre"
+  },
+  "hero": {
+    "title": "Sua Jornada Financeira",
+    "subtitle": "Começa Aqui",
+    "description": "Descubra as melhores estratégias para investir, economizar e construir sua riqueza com conteúdo especializado e atualizado diariamente.",
+    "exploreArticles": "Explorar Artigos",
+    "newsletter": "Newsletter Gratuita"
+  },
+  "categories": {
+    "title": "Explore por Categoria",
+    "investments": {
+      "name": "Investimentos",
+      "description": "Ações, fundos, renda fixa e criptomoedas"
+    },
+    "cards": {
+      "name": "Cartões",
+      "description": "Cartões de crédito e débito"
+    },
+    "loans": {
+      "name": "Empréstimos",
+      "description": "Financiamentos e crédito pessoal"
+    },
+    "savings": {
+      "name": "Poupança",
+      "description": "Reserva de emergência e planejamento"
+    },
+    "analysis": {
+      "name": "Análises",
+      "description": "Relatórios e análises de mercado"
+    },
+    "insurance": {
+      "name": "Seguros",
+      "description": "Proteção e seguros diversos"
+    }
+  },
+  "featuredArticles": {
+    "title": "Artigos em Destaque"
+  },
+  "newsletter": {
+    "title": "Não Perca Nenhuma Oportunidade",
+    "description": "Receba as melhores dicas de investimento e finanças pessoais diretamente no seu e-mail. Conteúdo exclusivo e gratuito.",
+    "placeholder": "Seu melhor e-mail",
+    "subscribe": "Assinar Grátis"
+  },
+  "footer": {
+    "description": "Seu portal completo para finanças pessoais e investimentos. Educação financeira de qualidade para construir sua riqueza.",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Receba as melhores dicas de finanças direto no seu e-mail.",
+      "placeholder": "Seu e-mail",
+      "subscribe": "Assinar"
+    },
+    "copyright": "Todos os direitos reservados."
+  }
+}
+

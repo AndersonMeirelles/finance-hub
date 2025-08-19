@@ -1,0 +1,64 @@
+{
+  "navigation": {
+    "home": "Home",
+    "articles": "Articles",
+    "investments": "Investments",
+    "cards": "Cards",
+    "loans": "Loans",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Your Financial Journey",
+    "subtitle": "Starts Here",
+    "description": "Discover the best strategies to invest, save and build your wealth with specialized content updated daily.",
+    "exploreArticles": "Explore Articles",
+    "newsletter": "Free Newsletter"
+  },
+  "categories": {
+    "title": "Explore by Category",
+    "investments": {
+      "name": "Investments",
+      "description": "Stocks, funds, fixed income and cryptocurrencies"
+    },
+    "cards": {
+      "name": "Cards",
+      "description": "Credit and debit cards"
+    },
+    "loans": {
+      "name": "Loans",
+      "description": "Financing and personal credit"
+    },
+    "savings": {
+      "name": "Savings",
+      "description": "Emergency fund and planning"
+    },
+    "analysis": {
+      "name": "Analysis",
+      "description": "Market reports and analysis"
+    },
+    "insurance": {
+      "name": "Insurance",
+      "description": "Protection and various insurance"
+    }
+  },
+  "featuredArticles": {
+    "title": "Featured Articles"
+  },
+  "newsletter": {
+    "title": "Don't Miss Any Opportunity",
+    "description": "Receive the best investment and personal finance tips directly in your email. Exclusive and free content.",
+    "placeholder": "Your best email",
+    "subscribe": "Subscribe Free"
+  },
+  "footer": {
+    "description": "Your complete portal for personal finance and investments. Quality financial education to build your wealth.",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Receive the best finance tips directly in your email.",
+      "placeholder": "Your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "All rights reserved."
+  }
+}
+
