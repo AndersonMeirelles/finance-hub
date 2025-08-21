@@ -32,6 +32,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7836578167955841"
+          crossOrigin="anonymous"></script>
+      </head>
       <body className={`${inter.variable} font-sans antialiased bg-gray-50`}>
         {children}
       </body>
