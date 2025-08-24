@@ -1,5 +1,9 @@
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
 const nextConfig = {
+  experimental: {
+    appDir: true,
+    serverComponentsExternalPackages: ['@supabase/supabase-js'],
+  },
   trailingSlash: true,
   images: {
     unoptimized: true
@@ -10,7 +14,8 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
+
 
